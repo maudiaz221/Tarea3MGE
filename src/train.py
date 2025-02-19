@@ -37,7 +37,7 @@ def train_model():
     save_path = os.path.join(BASE_DIR, "models")
 
     # Train the model using AutoGluon
-    TabularPredictor(label=target, path=save_path).fit(train_data)
+    TabularPredictor(label=target, path=save_path).fit(train_data, time_limit=10)
 
     # Print the path
     print("Model training complete! Model saved at:", save_path)
