@@ -40,7 +40,7 @@ Tarea3MGE/
 ### **1. Instalar Dependencias**
 Asegúrate de tener **Python** instalado y luego instala los paquetes necesarios:
 ```bash
-pip install autogluon
+pip install autogluon pandas
 ```
 
 ### **2. Ejecutar el Script Principal**
