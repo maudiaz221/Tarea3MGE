@@ -62,5 +62,15 @@ pylint src/
 4. Sube los cambios (`git push origin nueva-caracteristica`).
 5. Abre un **Pull Request**.
 
+## **Arquitectura**
+
+**En en este repo se entrega el modelo y en el repo referenciado por el diagrama abajo, esta la arquitectura**
+
+![imagen](img/DiagramaArqui.png)
+
+**El repo con la arquitectura se encuentra en el siguiente link**
+
+[Repository with App and Model](https://github.com/maudiaz221/tarea2MGE.git)
+
 ## **Licencia**
 Este proyecto está bajo la Licencia MIT.
